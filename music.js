@@ -1,5 +1,5 @@
 const player = new Tone.Player({
-	url: "https://tonejs.github.io/audio/drum-samples/loops/ominous.mp3",
+	url: "https://geofities.github.io/tone-jam/498825__dkcu__phone-beeping.wav",
 	autostart: true,
 });
 const filter = new Tone.Filter(400, 'lowpass').toDestination();
